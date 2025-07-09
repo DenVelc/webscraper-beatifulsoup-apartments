@@ -20,7 +20,7 @@ The goal of this project was to:
 
 - `web_scraper_apartment_zlin.py` – converted Python script from original notebook
 - `Web-scraping-data.csv` – dataset collected using BeautifulSoup
-- `Final Report of the Project_Analysis of Apartments for Rent in Zlín.pdf` – final analytical report with visuals and summary
+- `Report.pdf` – final analytical report with visuals and summary
 - `README.md` – this documentation
 
 ---
